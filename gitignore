@@ -50,6 +50,8 @@ captures/
 .gradle
 gradlew.bat
 build
+gradle.properties
+
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -101,3 +103,6 @@ proguard/
 #NDK
 obj/
 jniLibs
+
+
+
